@@ -1,2 +1,3 @@
-# everexiobot
-Everex.io Telegram Bot
+# everexiobot (t.me/everexiobot)
+
+Everex.io Telegram Bot FAQ's Update
