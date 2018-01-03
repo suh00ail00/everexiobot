@@ -15,7 +15,7 @@ $askid = substr($message, 1);
 $askcase = "/".$askid;
 
 //FAQ'S LIST UPDATE
-$data = file_get_contents('faqs.txt');
+$data = file_get_contents('https://cdn.rawgit.com/suh00ail00/everexiobot/5e2b5a83/faqs.txt');
 $faqs = json_decode($data, TRUE);
 $faqlist = "";
 
