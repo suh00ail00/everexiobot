@@ -1,0 +1,17 @@
+{
+	"faqs": [
+
+	{
+			"id": 1,
+			"question": "What is TokenCash?",
+			"answer": "An Ethereum token family, pegged to fiat currency and tradable on the Everex Wallet, as well as on third-party applications and exchanges"
+		},
+
+		{
+			"id": 2,
+			"question": "What is CryptoCash?",
+			"answer": "An Ethereum token family, pegged to fiat currency and tradable on the Everex Wallet, as well as on third-party applications and exchanges"
+		}
+
+	]
+}
